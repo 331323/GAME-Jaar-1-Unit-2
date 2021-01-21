@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Proto2" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b24aa9f-ed5e-4cf4-bb72-2f6ff2279a57" name="Default Changelist" comment="" />
+    <list default="true" id="0b24aa9f-ed5e-4cf4-bb72-2f6ff2279a57" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Proto 2/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Proto 2/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Proto 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Proto 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/script/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/script/PlayerController.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/script/MoveForward.cs" root0="FORCE_HIGHLIGHTING" />
@@ -16,13 +41,14 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/script/MoveForward.cs" />
         <option value="$PROJECT_DIR$/Assets/script/SpawnManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/script/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/script/DetectCollisions.cs" />
         <option value="$PROJECT_DIR$/Assets/script/DestroyOutOfBounds.cs" />
+        <option value="$PROJECT_DIR$/Assets/script/PlayerController.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1l7i55LQNDkYJ9DguHxMCPmbfNW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,6 +96,7 @@
       <workItem from="1606954363927" duration="4171000" />
       <workItem from="1607029749034" duration="2445000" />
       <workItem from="1607086172153" duration="817000" />
+      <workItem from="1608329948282" duration="1270000" />
     </task>
     <servers />
   </component>
@@ -78,6 +105,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
